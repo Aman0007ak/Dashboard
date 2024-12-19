@@ -132,7 +132,8 @@ This segment provides key performance indicators to track overall retail perform
 
 ### 8️⃣ **Yearly Sales Trend**
 
-![image](https://github.com/user-attachments/assets/76420dcf-1614-40f1-9c20-7a73b7d382da)
+![image](https://github.com/user-attachments/assets/bb50096e-a1ee-46c7-b3e1-7f7edd894528)
+
 
 
 - **Visuals**: Line chart.
