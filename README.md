@@ -85,7 +85,6 @@ This segment provides key performance indicators to track overall retail perform
 
 ![image](https://github.com/user-attachments/assets/934fe42c-faa3-4109-82ea-b52ec3eeab20)
 
-
 - **Visuals**: Scatter Plot.
 - **Description**: Analysis of total sales and profit trends over time.
 
