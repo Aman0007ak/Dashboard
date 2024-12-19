@@ -98,8 +98,7 @@ This segment provides key performance indicators to track overall retail perform
 
 ### 4️⃣ **Segment-Wise Sales Share (%)**
 
-![image](https://github.com/user-attachments/assets/955e1487-9327-49b4-80bc-7a318c3edba9)
-
+![image](https://github.com/user-attachments/assets/271833c6-cb74-4be4-8fdc-c02d5a39137b)
 
 - **Visuals**: Donut chart.
 - **Description**: Sales distribution across different customer segments (Consumer, Corporate, Home Office).
@@ -107,7 +106,6 @@ This segment provides key performance indicators to track overall retail perform
 ### 5️⃣ **Sales by Country**
 
 ![image](https://github.com/user-attachments/assets/21b64f54-0e0a-4404-96a2-f59357b84073)
-
 
 - **Visuals**: Geo-mapped chart.
 - **Description**: Visualization of sales performance by country.
