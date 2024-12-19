@@ -216,7 +216,7 @@ For any queries or feedback, please contact:
 
 ## **Dashboard**
 
-![image](https://github.com/user-attachments/assets/910b8338-af79-4d6e-bf20-de3cef82fe55)
+![image](https://github.com/user-attachments/assets/3adf3792-2a14-49fd-9659-9f86e2c8e1be)
 
 																										
 																										
