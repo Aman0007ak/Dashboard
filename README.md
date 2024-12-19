@@ -208,8 +208,8 @@ Contributions are welcome! Feel free to:
 
 For any queries or feedback, please contact:
 
-**Name**: [Your Name]  
-**Email**: [Your Email]  
+**Name**: Aman Kumar  
+**Email**: amankumar00007ak@gmail.com  
 **GitHub**: [Your GitHub Profile]
 
 ---
