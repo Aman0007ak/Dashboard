@@ -90,14 +90,18 @@ This segment provides key performance indicators to track overall retail perform
 
 ### 3️⃣ **Category-Wise Profit**
 
-![image](https://github.com/user-attachments/assets/75f41df0-f521-4c2c-bc0c-28ab9d8f501a)
+![image](https://github.com/user-attachments/assets/9c65e3c1-629d-40e9-b64d-c9d336c35753)
 
-- **Visuals**: Pie chart and bar chart.
+
+
+- **Visuals**: Pie chart.
 - **Description**: Breakdown of profits by product category (e.g., Furniture, Technology, Office Supplies).
 
 ### 4️⃣ **Segment-Wise Sales Share (%)**
 
-![image](https://github.com/user-attachments/assets/8af11ced-8c14-498a-a996-37dd481ddf03)
+![image](https://github.com/user-attachments/assets/a44a6ed0-fd14-4577-8a41-65c3528b9851)
+
+
 
 
 - **Visuals**: Donut chart.
