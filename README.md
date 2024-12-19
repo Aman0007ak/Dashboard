@@ -119,7 +119,7 @@ This segment provides key performance indicators to track overall retail perform
 ![image](https://github.com/user-attachments/assets/44894346-db14-4cdd-917a-1343d66f02a4)
 
 
-- **Visuals**: Horizontal bar chart.
+- **Visuals**: Vertical bar chart.
 - **Description**: Displays the top 5 performing subcategories based on sales.
 
 ### 7️⃣ **Bottom 5 Subcategories**
@@ -214,6 +214,48 @@ For any queries or feedback, please contact:
 
 ---
 
-## 📝 **License**
+**Dashboard**
+![image](https://github.com/user-attachments/assets/02774262-9cfb-4a3f-b81a-68740b8deaef)																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
 
-This project is licensed under the MIT License.
+
